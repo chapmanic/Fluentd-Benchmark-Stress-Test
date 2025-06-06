@@ -30,7 +30,7 @@ python fluentd-benchmark.py 60 --rate 100 --size 200000
 
 ---
 
-## ⚙️ Command Line Arguments
+## Command Line Arguments
 
 | Argument       | Type     | Default       | Description                                 |
 |----------------|----------|---------------|---------------------------------------------|
@@ -74,7 +74,7 @@ At completion, the script prints a detailed performance report:
 
 ---
 
-## 🛠 Dependencies
+## Dependencies
 
 Install the `fluent-logger` package before running the script:
 
